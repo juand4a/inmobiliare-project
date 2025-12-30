@@ -1,0 +1,20 @@
+.navbar {
+  background: var(--surface);
+  border-bottom: 1px solid rgba(255,255,255,.08);
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.links a {
+  margin-left: 1rem;
+  color: var(--muted);
+}
+
+.links a.active {
+  color: var(--text);
+  font-weight: 600;
+}
