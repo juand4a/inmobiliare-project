@@ -15,7 +15,16 @@ export default function Home() {
             <section className="services">
                 <h1>Our Services</h1>
                 <div className="card">
-                    <h1>hola</h1>
+                    <h2>hola</h2>
+                </div>
+                <div className="card">
+                    <h2>hola</h2>
+                </div>
+                <div className="card">
+                    <h2>hola</h2>
+                </div>
+                <div className="card">
+                    <h2>hola</h2>
                 </div>
                 
             </section>
